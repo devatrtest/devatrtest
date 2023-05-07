@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hola 👋, Soy devatrtest 
+---
 
-<!--
-**devatrtest/devatrtest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dev junior**, en constante búsqueda de nuevos desafíos para mejorar mis habilidades.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Intereses
+- 💻 Programación
+- 🌐 Desarrollo web
+- ⚽ Futbol
+
+---
+perfil github: [https://github.com/devatrtest](https://github.com/devatrtest)
+
+---
+## Tabla de comandos
+
+| Comando     | Descripción                          |
+| ----------- | ------------------------------------ |
+| mkdir       | crea una carpeta                     |
+| clear       | limpia la terminal                   |
+| mv          | mover o cambiar nombre a un archivo  |
+| rm          | eliminar archivo o diirectorio       |
+| ls          | listar el contenido de un directorio |
+
+---
+
+## Alias
+| Alias                | Descripción                     |
+| -------------------- | ------------------------------- |
+| alias `cl`=*"clear"* | limpiar la teminal              |
+| alias `..`=*"cd .."* | regresar al directorio anterior |
